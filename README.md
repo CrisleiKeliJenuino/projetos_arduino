@@ -4,18 +4,18 @@ Este repositório reúne todos os meus programas desenvolvidos em **Arduino**, f
 
 ---
 
-## 🏫 Instituição e Curso
+## 🏫 Sobre
 
-[![ETEC Prof. Massuyuki Kawano](https://img.shields.io/badge/ETEC‑Prof._Massuyuki_Kawano‑0078D4?logo=education&logoColor=white)](https://www.etectupa.com.br/)  
-**Curso:**  
-[![Redes de Computadores](https://img.shields.io/badge/Redes%20de%20Computadores‑Informação%20e%20Comunicação‑4A90E2?logo=network‑wired&logoColor=white)](https://www.etectupa.com.br/cursos/redes/)  
+Os programas foram desenvolvidos durante o curso técnico em **Redes de Computadores** na **ETEC Prof. Massuyuki Kawano**, sob a orientação do professor **Joel Coutinho**.  
+Agradeço pela direção e ensinamentos que contribuíram para meu aprendizado na área de programação de microcontroladores.
 
 ---
 
-## 👨‍🏫 Professor
+## 👨‍🏫 Professores e Contatos
 
-**Joel Coutinho**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn‑Joel%20Coutinho‑0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-coutinho-b1b32937/)
+**Professor Joel Coutinho**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Coutinho-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-coutinho-b1b32937/)
+
 ---
 
 ## 📂 Conteúdo
