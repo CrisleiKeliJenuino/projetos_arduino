@@ -14,7 +14,7 @@ Agradeço pela direção e ensinamentos que contribuíram para meu aprendizado n
 ## 👨‍🏫 Professor
 
 **Joel Coutinho**  
-🔗 [LinkedIn](https://www.linkedin.com/in/joel-coutinho-b1b32937/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel%20Coutinho-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-coutinho-b1b32937/)
 
 ---
 
@@ -34,5 +34,5 @@ Cada arquivo contém:
 
 ## 📬 Contato
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/crislei-jenuino/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Crislei%20Jenuino-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-jenuino/)
 - ✉️ Email: crisleikeli@hotmail.com
